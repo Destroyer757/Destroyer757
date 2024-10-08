@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Destroyer757
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning python, kotlin, Javascript
+- 💞️ I’m looking to collaborate on future projects
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm 6'1
